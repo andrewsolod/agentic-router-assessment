@@ -1,11 +1,4 @@
-# Agentic Router — Module 3, Part 1: Sub-query division
-
-Coursework for the FDE Agent Engineering Bootcamp, Module 3 (*Production Agentic RAG*).
-The notebook is the course's `001. Agentic Router`; **the submitted work is Part 1 of its
-assignment**, implemented at the bottom of the notebook.
-
-Execution outputs have been cleared everywhere except the assignment cells, so what you see
-recorded is the assignment running, not the walkthrough.
+# Agentic Router Assessment, Sub-query division
 
 ---
 
